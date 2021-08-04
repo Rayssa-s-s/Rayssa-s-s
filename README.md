@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayssa-s-s
 - 👀 I’m interested in backend opportunities
-- 🌱 I’m currently learning Node, js, java, php and pyton
+- 🌱 I’m currently learning Node, Js, Java, PHP and Pyton
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me @Rayssa-s-s
 
